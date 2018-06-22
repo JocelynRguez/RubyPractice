@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This App is a tutorial from Udemy's "8 Beautiful Ruby on Rails Apps in 30 Days" tutorials. This course has since become closed since the frameworks are outdated. This is my attempt at completing the tutorials with Rails 5. 
 
-Things you may want to cover:
+##FileCabinet App
 
-* Ruby version
+#####Gem Files to add
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ ```
+  gem 'jquery-rails' `
+  gem 'sdoc', '~> 0.4.0', group: :doc
+  gem 'devise'
+  gem 'simple_form'
+  gem 'haml', '~> 4.0.5'
+  
+  ```
