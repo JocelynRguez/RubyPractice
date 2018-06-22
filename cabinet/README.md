@@ -11,6 +11,6 @@ This App is a tutorial from Udemy's "8 Beautiful Ruby on Rails Apps in 30 Days" 
   gem 'sdoc', '~> 0.4.0', group: :doc
   gem 'devise'
   gem 'simple_form'
-  gem 'haml', '~> 4.0.5'
+  gem 'haml-rails'
   
   ```
