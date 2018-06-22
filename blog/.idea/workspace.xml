@@ -20,8 +20,8 @@
       <file leaf-file-name="articles_controller.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/articles_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -140,7 +140,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1353" />
     <option name="y" value="49" />
     <option name="width" value="1105" />
@@ -372,15 +372,15 @@
       <workItem from="1529446066995" duration="2492000" />
       <workItem from="1529516108927" duration="142000" />
       <workItem from="1529625976830" duration="686000" />
-      <workItem from="1529684200009" duration="10424000" />
+      <workItem from="1529684200009" duration="11139000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13744000" />
+    <option name="totallyTimeSpent" value="14459000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1353" y="49" width="1105" height="1126" extended-state="0" />
+    <frame x="1353" y="49" width="1105" height="1126" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -695,8 +695,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/articles_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
