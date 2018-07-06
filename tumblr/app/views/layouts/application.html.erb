@@ -19,7 +19,7 @@
       </ul>
       <p class="sign_in">User Login</p>
     </div>
-    <div id = "main_content">
+    <div id ="main_content">
       <div id="header">
         <p>Post Feed</p>
         <div class="buttons">
@@ -30,7 +30,8 @@
       <% flash.each do |name, msg| %>
         <%= content_tag(:div, msg, class: "alert") %>
       <% end %>
+      <%= yield %>
     </div>
-    <%= yield %>
+
   </body>
 </html>
