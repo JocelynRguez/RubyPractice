@@ -170,51 +170,6 @@
             <path>
               <item name="tumblr" type="b2602c69:ProjectViewProjectNode" />
               <item name="tumblr" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tumblr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tumblr" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tumblr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tumblr" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tumblr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tumblr" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="comments" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tumblr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tumblr" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tumblr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tumblr" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tumblr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tumblr" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tumblr" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tumblr" type="462c0819:PsiDirectoryNode" />
               <item name="db" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -358,16 +313,15 @@
       <workItem from="1530633895266" duration="3323000" />
       <workItem from="1530809270153" duration="2532000" />
       <workItem from="1530897200577" duration="3347000" />
-      <workItem from="1531152337161" duration="4929000" />
+      <workItem from="1531152337161" duration="5640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17398000" />
+    <option name="totallyTimeSpent" value="18109000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1351" y="351" width="1783" height="1062" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16320808" />
       <window_info anchor="bottom" id="TODO" order="6" />
